@@ -46,7 +46,7 @@ body {
          border-radius:10%;
          animation-name:box1;
          animation-duration:5s;
-         animation-iteration-count:infinite;
+         animation-iteration-count:1;
 }
 @keyframes box1 {
 
@@ -75,9 +75,9 @@ body {
 {
      color:#EEE;
      background-color:#04AA6D;
-     width:13%;
+     width:18%;
      font-size:16px;
-     height:5%;
+     height:10%;
      border-radius:50px;
     
      
