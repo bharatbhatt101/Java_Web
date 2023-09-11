@@ -43,7 +43,7 @@ body {
 {
          border-bottom:3px solid;
          box-shadow: #1a1414;
-         border-radius:10%;
+         border-radius:10px;
          animation-name:box1;
          animation-duration:5s;
          animation-iteration-count:1;
