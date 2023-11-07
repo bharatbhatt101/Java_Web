@@ -42,17 +42,6 @@ body {
     position: static;
 }
 
-.but {
-    color: #EEE;
-    background-color: #04AA6D;
-    width: 15%;
-    font-size: 16px;
-    height: 10%;
-    border-radius: 30px;
-    text-decoration: none;
-    
-    
-}
 
 .but1 {
     color: #EEE;
@@ -190,18 +179,7 @@ body {
             position: static;
         }
     
-        .but {
-            color: #EEE;
-            background-color: #04AA6D;
-            width:30%;
-            font-size: 16px;
-            height: 10%;
-            border-radius: 30px;
-            text-decoration: none;
-    
-    
-        }
-    
+        
         .but1 {
             color: #EEE;
             background-color: #04AA6D;
