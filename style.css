@@ -94,9 +94,20 @@ body {
 
 
 }
+.t {
+
+    border: solid black;
+    width: 80%;
+    margin-top: 2%;
+    margin-left:5%;
+    padding: 2%;
+    background-color: #04AA4C;
+    color:white;
+
+}
 
 .li:hover {
-    background-color: #04AA4C;
+    background-color:rgb(188, 165, 165);
 }
 
 .con {
@@ -223,9 +234,21 @@ body {
     
     
         }
+        .t {
+
+            border: solid black;
+            width: 80%;
+            margin-top: 2%;
+            margin-left:5%;
+            padding: 2%;
+            background-color: #04AA4C;
+            color:white;
+        
+        }
     
         .li:hover {
-            background-color: #04AA4C;
+            background-color:rgb(188, 165, 165);
+
         }
     
         .con {
