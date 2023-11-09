@@ -161,6 +161,11 @@ body {
     width: 35%;
     border: 1px solid;
 }
+.img1 {
+
+    padding-left:32%;
+    width:30%;
+}
 
 .h {
     margin-left: 32%;
@@ -329,5 +334,10 @@ body {
 
         width: 40%;
         border: 1px solid;
+    }
+    .img1 {
+
+        padding-left:32%;
+        width:30%;
     }
 }
