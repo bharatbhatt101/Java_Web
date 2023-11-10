@@ -1,6 +1,6 @@
 body {
     border-top: 100px solid #04AA4C;
-    scrollbar-base-color: #04AA4C;
+    zoom:1.5;
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
 }
@@ -175,7 +175,7 @@ body {
 @media(max-width:768px) {
     body {
         border-top: 100px solid #04AA4C;
-
+        zoom:1.5;
         font-family: Arial, Helvetica, sans-serif;
         font-size: small;
     }
