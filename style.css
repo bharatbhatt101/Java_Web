@@ -104,7 +104,7 @@ body {
 
 .t {
 
-    border: solid black;
+    border: solid #04AA4C;
     width: 80%;
     margin-top: 2%;
     margin-left: 5%;
@@ -267,7 +267,7 @@ body {
         border: solid black;
         width: 80%;
         margin-top: 2%;
-        margin-left: 4%;
+        margin-left: 5%;
         padding: 2%;
 
 
@@ -275,7 +275,7 @@ body {
 
     .t {
 
-        border: solid black;
+        border: solid #04AA4C;
         width: 80%;
         margin-top: 2%;
         margin-left: 5%;
