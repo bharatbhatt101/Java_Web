@@ -104,6 +104,12 @@ section {
 
 }
 
+.e
+{
+    text-decoration: none;
+}
+
+
 
 .c2 {
     background-color: #04AA6D;
@@ -232,6 +238,12 @@ section {
         border-radius: 5px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
+
+    .e
+{
+    text-decoration: none;
+}
+
     
 
     .but1 {
